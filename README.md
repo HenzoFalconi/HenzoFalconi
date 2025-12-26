@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=110&section=header&text=Olá,%20eu%20sou%20Henzo%20Falconi!&fontSize=26&fontAlign=50&fontColor=ffffff"/>
 
 <img 
-  src="https://raw.githubusercontent.com/HenzoFalconi/HenzoFalconi/main/image-removebg-preview%20(13).png" 
+  src="https://raw.githubusercontent.com/HenzoFalconi/HenzoFalconi/main/image-removebg-preview%20(13).png"
   alt="Henzo Falconi Avatar"
   width="230"
   align="right"
@@ -32,13 +32,14 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img 
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=HenzoFalconi&show_icons=true&theme=dark&hide_title=true&bg_color=00000000"
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HenzoFalconi&show_icons=true&theme=dark"
   />
-  <img 
-    height="150em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenzoFalconi&layout=compact&theme=dark&bg_color=00000000"
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HenzoFalconi&layout=compact&theme=dark"
   />
 </p>
 
