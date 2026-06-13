@@ -11,22 +11,29 @@
   align="right" 
 />
 
-### 👨‍💻 Técnico em Desenvolvimento de Sistemas – SENAI Ipiranga
+### 👨‍💻 Desenvolvedor Full-Stack | [cite_start]Engenharia de Software 
 
-💻 Apaixonado por desenvolvimento e tecnologia.<br>
-🚀 Explorando o mundo da programação com foco em Java e Python.<br>
-🎨 Curioso e com habilidades sobre design, usabilidade e performance.<br>
-🤖 Interessado em Inteligência Artificial, APIs e desenvolvimento mobile.
+[cite_start]💻 Experiência prática no desenvolvimento de APIs (FastAPI) e integração com MQTT para coleta de dados em tempo real[cite: 5].<br>
+[cite_start]🚀 Focado na aplicação da arquitetura MVC, Clean Code e modelagem de bancos de dados relacionais[cite: 6].<br>
+[cite_start]🛠️ Habilidade no desenvolvimento de soluções assíncronas, APIs REST e metodologias ágeis[cite: 38, 39].<br>
+[cite_start]🏆 Vencedor do Prêmio Destaque por excelência técnica.
 
 ---
 
-### 🛠 Tecnologias em aprendizado:
+### [cite_start]🛠 Tecnologias & Ferramentas [cite: 34]
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity"/>
 </p>
 
 ---
@@ -47,8 +54,7 @@
 
 ### 🌐 Conecte-se comigo:
 <p>
-  <a href="https://www.linkedin.com/in/henzo-falconi-aaa70826a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/henzo-falconi/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://www.instagram.com/hzfalconi/" target="_blank">
