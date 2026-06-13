@@ -11,16 +11,16 @@
   align="right" 
 />
 
-### 👨‍💻 Desenvolvedor Full-Stack | [cite_start]Engenharia de Software 
+### 👨‍💻 Desenvolvedor Full-Stack | Engenharia de Software
 
-[cite_start]💻 Experiência prática no desenvolvimento de APIs (FastAPI) e integração com MQTT para coleta de dados em tempo real[cite: 5].<br>
-[cite_start]🚀 Focado na aplicação da arquitetura MVC, Clean Code e modelagem de bancos de dados relacionais[cite: 6].<br>
-[cite_start]🛠️ Habilidade no desenvolvimento de soluções assíncronas, APIs REST e metodologias ágeis[cite: 38, 39].<br>
-[cite_start]🏆 Vencedor do Prêmio Destaque por excelência técnica.
+💻 Experiência prática no desenvolvimento de APIs (FastAPI) e integração com MQTT para coleta de dados em tempo real.<br>
+🚀 Focado na aplicação da arquitetura MVC, Clean Code e modelagem de bancos de dados relacionais.<br>
+🛠️ Habilidade no desenvolvimento de soluções assíncronas, APIs REST e metodologias ágeis.<br>
+🏆 Vencedor do Prêmio Destaque por excelência técnica.
 
 ---
 
-### [cite_start]🛠 Tecnologias & Ferramentas [cite: 34]
+### 🛠 Tecnologias & Ferramentas
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
@@ -54,7 +54,8 @@
 
 ### 🌐 Conecte-se comigo:
 <p>
-  <a href="https://www.linkedin.com/in/henzo-falconi/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/henzo-falconi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://www.instagram.com/hzfalconi/" target="_blank">
