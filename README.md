@@ -41,12 +41,14 @@
 ### 📊 Estatísticas GitHub
 <p align="center">
   <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api?username=HenzoFalconi&show_icons=true&theme=dark&icon_color=ff4500&text_color=ffffff&title_color=ff6347&bg_color=00000000&hide_title=true"
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api?username=HenzoFalconi&show_icons=true&theme=dark&icon_color=ff4500&text_color=ffffff&title_color=ff6347&hide_title=true" 
+    alt="Estatísticas do GitHub"
   />
   <img 
-    height="150em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenzoFalconi&layout=compact&theme=dark&text_color=ffffff&title_color=ff6347&bg_color=00000000&cache_seconds=10&cache=clear"
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenzoFalconi&layout=compact&theme=dark&text_color=ffffff&title_color=ff6347" 
+    alt="Linguagens mais usadas"
   />
 </p>
 
