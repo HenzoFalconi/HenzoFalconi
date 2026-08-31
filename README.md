@@ -13,10 +13,10 @@
 
 ### 👨‍💻 Desenvolvedor Full-Stack | Engenharia de Software
 
-💻 Experiência prática no desenvolvimento de APIs (FastAPI) e integração com MQTT para coleta de dados em tempo real.<br>
+💻 Experiência prática no desenvolvimento de APIs (FastAPI e C#) e integração com MQTT para coleta de dados em tempo real.<br>
 🚀 Focado na aplicação da arquitetura MVC, Clean Code e modelagem de bancos de dados relacionais.<br>
 🛠️ Habilidade no desenvolvimento de soluções assíncronas, APIs REST e metodologias ágeis.<br>
-🏆 Vencedor do Prêmio Destaque por excelência técnica.
+🏆 Vencedor do Prêmio Destaque por excelência técnica e Cursos de programação.
 
 ---
 
@@ -54,7 +54,7 @@
 
 ### 🌐 Conecte-se comigo:
 <p>
-  <a href="https://www.linkedin.com/in/henzo-falconi/" target="_blank">
+  <a href="https://www.linkedin.com/in/henzo-falconi1401/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
