@@ -42,13 +42,11 @@
 <p align="center">
   <img 
     height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=HenzoFalconi&show_icons=true&theme=dark&icon_color=ff4500&text_color=ffffff&title_color=ff6347&hide_title=true" 
-    alt="Estatísticas do GitHub"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenzoFalconi&show_icons=true&theme=dark&icon_color=ff4500&text_color=ffffff&title_color=ff6347&hide_title=true" 
   />
   <img 
     height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenzoFalconi&layout=compact&theme=dark&text_color=ffffff&title_color=ff6347" 
-    alt="Linguagens mais usadas"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenzoFalconi&layout=compact&theme=dark&text_color=ffffff&title_color=ff6347" 
   />
 </p>
 
